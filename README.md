@@ -25,11 +25,20 @@ Prompting a user to enter:
 - Detection and reporting of open ports
 - Input validation for port ranges
  
-<h2>Pictures:</h2>
+<h2>Code:</h2>
 
 ![image alt](https://github.com/AndreeSalvo/PortScanner-/blob/6a5255136be697c652e7833204956f5b0bb0dca3/Port%20scanner%20code%20.jpg)
 
 <h2>Example Terminal Output:</h2>
 
 ![image alt](https://github.com/AndreeSalvo/PortScanner-/blob/6a5255136be697c652e7833204956f5b0bb0dca3/Terminal%20output%20port%20scanner.png)
+
+<h2>Output Explanation</h2>
+
+The scanner checks ports sequentially while displaying progress (e.g., 51/1000)
+When an open port is found, it is immediately printed:
+Port 135 → commonly used for RPC services
+Port 445 → commonly used for SMB (file sharing)
+After scanning all ports, the program summarizes the results:
+[135, 445] indicates the open ports detected on the system 
 
