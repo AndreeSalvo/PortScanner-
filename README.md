@@ -35,10 +35,10 @@ Prompting a user to enter:
 
 <h2>Output Explanation</h2>
 
-The scanner checks ports sequentially while displaying progress (e.g., 51/1000)
-When an open port is found, it is immediately printed:
-Port 135 → commonly used for RPC services
-Port 445 → commonly used for SMB (file sharing)
-After scanning all ports, the program summarizes the results:
-[135, 445] indicates the open ports detected on the system 
+- The scanner checks ports sequentially while displaying progress (e.g., 51/1000)
+- When an open port is found, it is immediately printed:
+- Port 135 → commonly used for RPC services
+- Port 445 → commonly used for SMB (file sharing)
+- After scanning all ports, the program summarizes the results:
+- [135, 445] indicates the open ports detected on the system 
 
