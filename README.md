@@ -27,3 +27,9 @@ Prompting a user to enter:
  
 <h2>Pictures:</h2>
 
+![image alt](https://github.com/AndreeSalvo/PortScanner-/blob/6a5255136be697c652e7833204956f5b0bb0dca3/Port%20scanner%20code%20.jpg)
+
+<h2>Example Terminal Output:</h2>
+
+![image alt](https://github.com/AndreeSalvo/PortScanner-/blob/6a5255136be697c652e7833204956f5b0bb0dca3/Terminal%20output%20port%20scanner.png)
+
