@@ -20,10 +20,10 @@ Prompting a user to enter:
 <h2>Key features the program has and what it's intended to do is:</h2>
 
 - Multithreaded scanning for improved speed
-User-defined IP and port range
-Real-time progress updates
-Detection and reporting of open ports
-Input validation for port ranges
+- User-defined IP and port range
+- Real-time progress updates
+- Detection and reporting of open ports
+- Input validation for port ranges
  
 <h2>Pictures:</h2>
 
