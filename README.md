@@ -2,7 +2,7 @@
 <h2>Description</h2>
 Created a Python multithreaded TCP port scanner designed to identify open ports on a target system.
 
-The program works by:
+<h2>The program works by:</h2>
 Prompting a user to enter:
   - A target IP address
   - A startign port number
