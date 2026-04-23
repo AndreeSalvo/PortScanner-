@@ -6,7 +6,7 @@ Created a Python multithreaded TCP port scanner designed to identify open ports 
 
 Prompting a user to enter:
   - A target IP address
-  - A startign port number
+  - A starting port number
   - An ending port number
 - Iterating through the specified range of ports
 - Attempting to establish a TCP connection to each port using the socket module
